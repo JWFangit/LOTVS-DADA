@@ -4,3 +4,6 @@ Driver attention prediction has recently absorbed increasing attention in traffi
 We are worm-hearted to release this benchmark here, and sincerely invite to use and share it.
 
 if you want to use this data, please send an email to j.w.fangit@gmail.com, and then the link of downloading will be feedback to you soon.
+
+The accident category we defined is shown in the figure:![accident category](https://github.com/JWFangit/LOTVS-DADA/blob/master/DADA_accident_categories/accident%20classification.pdf)
+
