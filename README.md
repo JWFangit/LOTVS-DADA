@@ -8,24 +8,34 @@ The flowachart of the driver attention model of MSAFNet is as follows.
 
 Aaccident category: The accident category we defined is shown in the figure:![accident category](https://github.com/JWFangit/LOTVS-DADA/blob/master/DADA_accident_categories/accident%20classification.jpg)
 
-Benchmark download: We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. Our DADA2000 dataset (about 53GB with compresed mode) can be downloaded from HERE[Here](https://pan.baidu.com/s/1gt0zzd-ofeVeElSlTQbVmw).
+Benchmark download: We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. Our DADA2000 dataset (about 53GB with compresed mode) can be downloaded from [Here](https://pan.baidu.com/s/1gt0zzd-ofeVeElSlTQbVmw).
 
-Note: DADA benchmark can only be utilized for research. 
-If you are interested in this work and the benchmark, please cite the work with following bibtex.
+Note: DADA benchmark can only be utilized for research, and this downloading link provide a half part of DADA-2000. The reminder half part is confidential and retained for a future competition. If you are interested in this work and the benchmark, please cite the work with following bibtex.
 
 @inproceedings{conf/itsc/FangYQXWL19,
+
   author    = {Jianwu Fang and Dingxin Yan and Jiahuan Qiao and Jianru Xue and He Wang and Sen Li},
-  title     = {{DADA-2000:} Can Driving Accident be Predicted by Driver Attention{\(f\)}
+  
+  title     = {{DADA-2000:} Can Driving Accident be Predicted by Driver Attention?}
                Analyzed by {A} Benchmark},
-  booktitle = {2{IEEE} Intelligent Transportation Systems Conference},
+               
+  booktitle = {{IEEE} Intelligent Transportation Systems Conference},
+  
   pages     = {4303--4309},
+  
   year      = {2019},
+  
 }
 and
 
 @article{conf/ieeeits/FangYQXWL19,
+
   author    = {Jianwu Fang and Dingxin Yan and Jiahuan Qiao and Jianru Xue},
+  
   title     = {DADA: A Large-scale Benchmark and Model for Driver Attention Prediction in Accidental Scenarios},
+  
  journal={arXiv preprint arXiv:1912.12148},
+ 
   year      = {2019},
+  
 }
