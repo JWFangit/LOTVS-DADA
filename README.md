@@ -14,23 +14,6 @@ We are worm-hearted to release this benchmark here, and sincerely invite to use 
 
 Note: DADA benchmark can only be utilized for research, and this downloading link provide a half part of DADA-2000. The reminder half part is confidential and retained for a future competition. If you are interested in this work and the benchmark, please cite the work with following bibtex.
 ```
-
-@inproceedings{conf/itsc/FangYQXWL19,
-
-  author    = {Jianwu Fang and Dingxin Yan and Jiahuan Qiao and Jianru Xue and He Wang and Sen Li},
-  
-  title     = {{DADA-2000:} Can Driving Accident be Predicted by Driver Attention?}
-               Analyzed by {A} Benchmark},
-               
-  booktitle = {{IEEE} Intelligent Transportation Systems Conference},
-  
-  pages     = {4303--4309},
-  
-  year      = {2019},
-  
-}
-and
-
 @ARTICLE{9312486,
   author={J. {Fang} and D. {Yan} and J. {Qiao} and J. {Xue} and H. {Yu}},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
