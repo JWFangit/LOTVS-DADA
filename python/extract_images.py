@@ -12,7 +12,7 @@ def video2image(video_pth, save_pth, mode='images'):
         c = c + 1
         rval, frame = vc.read()
         if rval:
-            name = os.path.join(save_pth, str(c).zfill(4) + '.png')
+            name = os.path.join(save_pth, str(c).zfill(4) + '.jpg')
             if mode == 'maps':
                 frame = cv2.cvtColor(frame, cv2.COLOR_RGB2GRAY)
             cv2.imwrite(name, frame)
