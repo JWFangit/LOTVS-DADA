@@ -9,19 +9,12 @@ Aaccident category: The accident category we defined is shown in the figure:![ac
 
 
 # Benchmark download:
-We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. **Our DADA2000 dataset (about 53GB with compresed mode) can be downloaded from** [Here](https://pan.baidu.com/s/1RfNjeW0Rjj6R4N7beSTYrA). (Extraction code: 9pab) **This is the dataset that we re-uploaded after sorting out.** Then you can use python/extract_images.py to decompress the datasets.
+We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. **Our DADA2000 dataset (about 53GB with compressed mode) can be downloaded from** [Here](https://pan.baidu.com/s/1RfNjeW0Rjj6R4N7beSTYrA). (Extraction code: 9pab) **This is the dataset that we re-uploaded after sorting out.** Then you can use python/extract_images.py to decompress the datasets.
 
+Note: The above released part is the used training and testing set in our work publicated in [1]. Recently, we have released FULL benchmark (about 116G with compressed mode) and can be downloaded here [Here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz) (Extraction code: ahyz) .
 
-Note: DADA benchmark can only be utilized for research, and this downloading link provide a half part of DADA-2000. The reminder half part is confidential and retained for a future competition. If you are interested in this work and the benchmark, please cite the work with following bibtex.
+If you are interested in this work and the benchmark, please cite the work with following bibtex.
+
 ```
-@ARTICLE{9312486,
-  author={J. {Fang} and D. {Yan} and J. {Qiao} and J. {Xue} and H. {Yu}},
-  journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  title={DADA: Driver Attention Prediction in Driving Accident Scenarios}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TITS.2020.3044678}
-}
+[1] Jianwu Fang, Dingxin Yan, Jiahuan Qiao, Jianru Xue, Hongkai Yu: DADA: Driver Attention Prediction in Driving Accident Scenarios. IEEE Trans. Intell. Transp. Syst. 23(6): 4959-4971 (2022)
 ```
