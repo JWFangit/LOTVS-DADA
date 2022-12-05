@@ -16,5 +16,7 @@ Note: The above released part is the used training and testing set in our work p
 If you are interested in this work and the benchmark, please cite the work with following bibtex.
 
 ```
-[1] Jianwu Fang, Dingxin Yan, Jiahuan Qiao, Jianru Xue, Hongkai Yu: DADA: Driver Attention Prediction in Driving Accident Scenarios. IEEE Trans. Intell. Transp. Syst. 23(6): 4959-4971 (2022)
+[1] Jianwu Fang, Dingxin Yan, Jiahuan Qiao, Jianru Xue, Hongkai Yu:
+DADA: Driver Attention Prediction in Driving Accident Scenarios. 
+IEEE Trans. Intell. Transp. Syst. 23(6): 4959-4971 (2022)
 ```
