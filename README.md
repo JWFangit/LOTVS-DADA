@@ -13,6 +13,8 @@ We are worm-hearted to release this benchmark here, and sincerely invite to use 
 
 Note: The above released part is the used training and testing set in our work publicated in [1]. Recently, we have released **FULL benchmark (about 116G with compressed mode) and can be downloaded** [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz) (Extraction code: ahyz) .
 
+Newa: we have released **FULL benchmark can be downloaded** [Google Drive](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz).
+
 If you are interested in this work and the benchmark, please cite the work with following bibtex.
 
 ```
